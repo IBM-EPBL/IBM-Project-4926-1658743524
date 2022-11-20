@@ -15,11 +15,11 @@ Team Member 2 - MARIMUTHU.P
 
 Team Member 3 - RAJESH KANNA.V
 
-##PROJECT DEMO LINK
+# PROJECT DEMO LINK
 
 [click here](https://drive.google.com/file/d/13DO9UtiYdbl1XJy0jhokjabgyTLU-O_6/view)
 
-##Project Report uploaded
+## Project Report uploaded
 
-#IBM project completed 
-                                                        THANK YOU
+# IBM project completed 
+                                                        [THANK YOU]
